@@ -8,9 +8,5 @@ module.exports = {
   // 出力ファイル
   output: {
     filename: "bundle.js"
-  },
-  devServer: {
-    contentBase: "../dist",
-    port: 3000
   }
 }
