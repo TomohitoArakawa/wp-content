@@ -1,2 +1,2 @@
 # wp-content
-orginal themes of wordpress
+orginal themes for wordpress
